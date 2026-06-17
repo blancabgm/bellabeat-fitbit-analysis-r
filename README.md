@@ -23,4 +23,5 @@ Este proyecto analiza datos de actividad, sueño e intensidad de usuarios de Fit
 Fitbit Fitness Tracker Data (Kaggle)
 
 ## 🔗 Portfolio completo
-Enlace a Notion: https://www.notion.so/Caso-pr-ctico-2-Bellabeat-37b61cbed09780b497cbce2fc7caadc3?source=copy_link
+[Enlace a Notion](https://www.notion.so/Caso-pr-ctico-2-Bellabeat-37b61cbed09780b497cbce2fc7caadc3?source=copy_link)
+[Notebook Kaggle](https://www.kaggle.com/code/blancagarcamoreno/bellabeat-fitbit-analysis-summary-notebook)
