@@ -4,7 +4,7 @@ Este proyecto analiza datos de actividad, sueño e intensidad de usuarios de Fit
 
 ## 📁 Estructura del repositorio
 - scripts/ → Código en R (limpieza, EDA, análisis avanzado)
-- outputs/ → Gráficos exportados
+- outputs/ → Vacía
 - images/ → Visualizaciones del EDA
 - README.md → Documentación del proyecto
 
