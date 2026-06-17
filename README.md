@@ -20,7 +20,7 @@ Este proyecto analiza datos de actividad, sueño e intensidad de usuarios de Fit
 - Recomendaciones accionables para Bellabeat
 
 ## 🔗 Dataset original
-Fitbit Fitness Tracker Data (Kaggle)
+* [Dataset original](https://www.kaggle.com/datasets/arashnic/fitbit)
 
 ## 🔗 Portfolio completo
 - [Enlace a Notion](https://www.notion.so/Caso-pr-ctico-2-Bellabeat-37b61cbed09780b497cbce2fc7caadc3?source=copy_link)
